@@ -12,3 +12,12 @@
 * baking soda
 
 # TEST!
+
+#Hello this is a markdown
+# Hello this is a markdown
+
+
+1. Hello
+
+
+* goodbye
